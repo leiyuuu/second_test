@@ -1,0 +1,5 @@
+time="2023-09-28T20:37:55+08:00" level=info msg="Welcome to naive-server"
+time="2023-09-28T20:37:55+08:00" level=info msg="version:1.0.0"
+time="2023-09-28T20:37:55+08:00" level=info msg="system:windows"
+time="2023-09-28T20:37:55+08:00" level=info msg="Bind log files succeed"
+time="2023-09-28T20:37:55+08:00" level=info msg="Gendatabase ALL succeed"
